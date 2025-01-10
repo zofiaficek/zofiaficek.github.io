@@ -12,7 +12,7 @@ Mogę się określić jako student o niewielkich umiejętnościach, ale dużych 
 <p style="text-align: center;">
   <img src="https://nypost.com/wp-content/uploads/sites/2/2022/09/kanye-west-04.jpg" width="450" height="300">
 </p>
-Zagorzały fanatyk starej polskiej kinematografii (zwłaszcza Daniela Olbrychskiego), muzyki każdego rodzaju 
+Zagorzały fanatyk starej polskiej kinematografii (zwłaszcza Daniela Olbrychskiego), muzyki każdego rodzaju (od polskiej alternatywy przez największy mainstream po gabber)
 <p style="text-align: center;">
   <img src="img1.jpg" width="100" height="200">
   <img src="img2.jpg" width="100" height="200">
